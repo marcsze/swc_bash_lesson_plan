@@ -4,10 +4,15 @@ Link to the etherpad is: http://pad.software-carpentry.org/2018-04-23-umich
 
 Link to the course site is: https://umswc.github.io/2018-04-23-umich/
 
+Link to the data that will be used: https://github.com/swcarpentry/shell-novice/blob/gh-pages/data/data-shell.zip
+  * Instructions on how to obtain the data file:
+    * Use link and hit the download button on the right.
+
 ## Introducing the Shell
 
 Link to lesson is [here](http://swcarpentry.github.io/shell-novice/01-intro/)
 
+* Make sure to optimize space by running the command `PS1='$ `. 
 
 
 ## Navigating Files and Directories
