@@ -55,6 +55,7 @@ The link to this lesson can be found [here](http://swcarpentry.github.io/shell-n
 * Go over what nano is and other text editors (e.g. notepad, notepad++, sublime, atom, vim, emacs, etc.)
   * When in nano go over that `^` is short for the `ctrl` command
 * Deleting is forever
+* The up arrow and tab key shortcuts
 
 **Key functions:** `ls`, `cd`, `mkdir`, `pwd`, `nano`, `rm`, `mv`, `cp`
 
@@ -74,6 +75,33 @@ The link to the lesson can be found [here](http://swcarpentry.github.io/shell-no
 
 
 **Key functions:** `wc`, `>`, `cat`, `less`, `sort`, `head`, `>>`, `|`, `<`, `uniq`
+
+## Loops:
+
+The link to this lesson is found [here](http://swcarpentry.github.io/shell-novice/05-loop/).
+
+**Key points to hit in this lesson include:**
+
+* A `for loop` in the bash shell
+ * what the `>` means when writing a loop on the command line
+* Use of `echo` as a debugging technique.
+ 
+
+**Key functions:** `$`, `echo`, `history`, `!`
+
+## Shell Scripts:
+
+The link to this lesson is found [here](http://swcarpentry.github.io/shell-novice/06-script/). ONLY COVER IF THERE IS TIME!!
+
+**Key points to hit in this lesson include:**
+
+* `ctrl-c` to kill programs
+* the use of `$1` within programs
+  * Why we surrond variables with `""`
+* the importance of commenting scripts
+
+
+**Key functions:** `$1`, `$@`
 
 
 
