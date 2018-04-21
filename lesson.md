@@ -33,7 +33,7 @@ Before getting started need to go over the general layout of the filesystem in t
 
 ![](http://swcarpentry.github.io/shell-novice/fig/home-directories.svg)
 
-**Key points to hit in this example include:**
+**Key points to hit in this lesson include:**
 
 * General structure and overview
 * Absolute path
@@ -48,7 +48,7 @@ i.e. my path to the desktop is: `/mnt/c/Users/marc/Desktop`
 
 The link to this lesson can be found [here](http://swcarpentry.github.io/shell-novice/03-create/).
 
-**Key points to hit in this example include:**
+**Key points to hit in this lesson include:**
 
 * Good file naming practices
   * If you do have spaces then you will need to use `""`.
@@ -56,7 +56,24 @@ The link to this lesson can be found [here](http://swcarpentry.github.io/shell-n
   * When in nano go over that `^` is short for the `ctrl` command
 * Deleting is forever
 
-** Key functions:** `ls`, `cd`, `mkdir`, `pwd`, `nano`, `rm`, `mv`, `cp`
+**Key functions:** `ls`, `cd`, `mkdir`, `pwd`, `nano`, `rm`, `mv`, `cp`
+
+## Pipes and Filters:
+
+The link to the lesson can be found [here](http://swcarpentry.github.io/shell-novice/04-pipefilter/).
+
+![](http://swcarpentry.github.io/shell-novice/fig/redirects-and-pipes.png)
+
+
+**Key points to hit in this lesson include:**
+
+* The use of wildcards (e.g. `*`, `?`)
+* The use of pipes `|`
+ * The modularity that this allows. Make simple things that together can do complex things.
+* Intro to wildcard expressions (skip if time is short)
+
+
+**Key functions:** `wc`, `>`, `cat`, `less`, `sort`, `head`, `>>`, `|`, `<`, `uniq`
 
 
 
