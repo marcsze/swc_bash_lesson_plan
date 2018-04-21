@@ -29,18 +29,22 @@ Link to lesson is [here](http://swcarpentry.github.io/shell-novice/01-intro/)
 
 Before getting started need to go over the general layout of the filesystem in the UNIX environment.
 
-![](http://swcarpentry.github.io/shell-novice/fig/standard-filesystem-hierarchy.svg)
+![](http://swcarpentry.github.io/shell-novice/fig/filesystem.svg)
+
+![](http://swcarpentry.github.io/shell-novice/fig/home-directories.svg)
+
+**Key points to hit in this example include:**
+
+* General structure and overview
+* Absolute path
+* Relative path
 
 Need to point out that the file system if using Git Bash may be slightly different than what they are used to.
 i.e. my path to the desktop is: `/mnt/c/Users/marc/Desktop`
- * so my `home` directory is in a directory that also has `mnt`, `root`, `opt`, etc.
+ * so my `home` directory is in the `root` directory that also has `mnt`, `root`, `opt`, etc.
   * `mnt` commonly is used for mounted drives (e.g. `c` in this case)
   
   
 
 
-**Key points to hit include:**
 
-* General structure and overview
-* Absolute path
-* Relative path
