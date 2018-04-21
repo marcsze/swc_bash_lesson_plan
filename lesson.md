@@ -44,7 +44,19 @@ i.e. my path to the desktop is: `/mnt/c/Users/marc/Desktop`
  * so my `home` directory is in the `root` directory that also has `mnt`, `root`, `opt`, etc.
   * `mnt` commonly is used for mounted drives (e.g. `c` in this case)
   
-  
+## Working with Files and Directories
+
+The link to this lesson can be found [here](http://swcarpentry.github.io/shell-novice/03-create/).
+
+**Key points to hit in this example include:**
+
+* Good file naming practices
+  * If you do have spaces then you will need to use `""`.
+* Go over what nano is and other text editors (e.g. notepad, notepad++, sublime, atom, vim, emacs, etc.)
+  * When in nano go over that `^` is short for the `ctrl` command
+* Deleting is forever
+
+** Key functions:** `ls`, `cd`, `mkdir`, `pwd`, `nano`, `rm`, `mv`, `cp`
 
 
 
