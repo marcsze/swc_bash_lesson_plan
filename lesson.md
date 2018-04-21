@@ -6,7 +6,13 @@ Link to the course site is: https://umswc.github.io/2018-04-23-umich/
 
 Link to the data that will be used: https://github.com/swcarpentry/shell-novice/blob/gh-pages/data/data-shell.zip
   * Instructions on how to obtain the data file:
-    * Use link and hit the download button on the right.
+    * Use link and hit the download button on the right (do not seem to need a GitHub ID to do this).
+    
+# Useful Resources
+
+A site that will breakdown any shell command: https://explainshell.com/
+
+A site that will check scripts for spelling errors: http://www.shellcheck.net
 
 ## Introducing the Shell
 
