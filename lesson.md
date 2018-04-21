@@ -27,7 +27,7 @@ Link to lesson is [here](http://swcarpentry.github.io/shell-novice/01-intro/)
 
 ## Navigating Files and Directories
 
-Before getting started need to go over the general layout of the filesystem in the UNIX environment.
+Before getting started need to go over the general layout of the filesystem in the UNIX environment. The link to the lesson can be found [here](http://swcarpentry.github.io/shell-novice/02-filedir/).
 
 ![](http://swcarpentry.github.io/shell-novice/fig/filesystem.svg)
 
